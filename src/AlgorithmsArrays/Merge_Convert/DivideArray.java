@@ -1,2 +1,4 @@
-package AlgorithmsArrays.Merge_Convert;public class DivideArray {
+package AlgorithmsArrays.Merge_Convert;
+
+public class DivideArray {
 }

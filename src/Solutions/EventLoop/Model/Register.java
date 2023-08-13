@@ -1,2 +1,7 @@
-package Solutions.EventLoop.Model;public class Register {
+package Solutions.EventLoop.Model;
+
+
+public class Register {
+
+
 }
