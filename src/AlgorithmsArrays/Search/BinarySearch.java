@@ -27,17 +27,9 @@ public class BinarySearch {
     }
 
     public static void binarySearch2(int[] array, int data, int index){
-        if (index > 0 && index < array.length){
+       // reset array left - right
+        //
 
-            if (array[index] > data){
-                binarySearch2(array, data, index+1);
-
-            }
-            else if (array[index] <data){
-
-            }
-
-        }
     }
 
 }
